@@ -1,7 +1,18 @@
+# Newt Calculator
+
 print "Newt Calculator"
+
 val a = input_number("a: ")
 val b = input_number("b: ")
+
+print "sum:"
 print a + b
+
+print "difference"
 print a - b
+
+print "product:"
 print a * b
+
+print "quotient:"
 print a / b
