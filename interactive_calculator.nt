@@ -8,7 +8,7 @@ val b = input_number("b: ")
 print "sum:"
 print a + b
 
-print "difference"
+print "difference:"
 print a - b
 
 print "product:"
