@@ -1,4 +1,5 @@
 # Newt Calculator
+# A tiny interactive calculator written in Newt.
 
 print "Newt Calculator"
 
